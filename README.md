@@ -6,9 +6,9 @@ In recent years, the issue of saving electricity has been gaining strength in th
 
 **Keywords** - Energy Consumption, Home Automation, Internet of Things, Raspberry Pi. 
 
-# Link to Paper
+# Link to Paper in Journal
 
-https://revistas.utp.ac.pa/index.php/ric/article/view/1749/pdf
+https://revistas.utp.ac.pa/index.php/ric/article/view/1749
 
 
 
